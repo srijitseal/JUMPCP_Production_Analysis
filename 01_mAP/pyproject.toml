@@ -1,0 +1,18 @@
+[project]
+name = "01-map"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=6.0.0",
+    "copairs>=0.5.2",
+    "marimo>=0.18.4",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pyarrow>=22.0.0",
+    "tqdm>=4.67.1",
+    "utils>=1.0.2",
+    "vegafusion>=2.0.3",
+    "vl-convert-python>=1.8.0",
+]
